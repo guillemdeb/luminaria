@@ -1,0 +1,45 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #F1FAEE;
+    color: #1D3557;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #1D3557;
+    color: #F1FAEE;
+    padding: 1rem;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 1rem;
+}
+
+nav ul li a {
+    color: #F1FAEE;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+h1 {
+    font-family: 'Lora', serif;
+}
+
+#main-content, #sidebar {
+    padding: 1rem;
+}
+
+footer {
+    background-color: #457B9D;
+    color: #F1FAEE;
+    text-align: center;
+    padding: 0.5rem 0;
+}
